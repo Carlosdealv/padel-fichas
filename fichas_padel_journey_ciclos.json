@@ -1,0 +1,2290 @@
+{
+  "iniciacion-1": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "iniciacion-2": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "iniciacion-3": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "iniciacion-4": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-5": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "iniciacion-6": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "iniciacion-7": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "iniciacion-8": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-9": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "iniciacion-10": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-11": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "iniciacion-12": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-13": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "iniciacion-14": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "iniciacion-15": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "iniciacion-16": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-17": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "iniciacion-18": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "iniciacion-19": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "iniciacion-20": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-21": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "iniciacion-22": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "iniciacion-23": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "iniciacion-24": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-25": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "iniciacion-26": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-27": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "iniciacion-28": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-29": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "iniciacion-30": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "iniciacion-31": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "iniciacion-32": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-33": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "iniciacion-34": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "iniciacion-35": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "iniciacion-36": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-37": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "iniciacion-38": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "iniciacion-39": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "iniciacion-40": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-41": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "iniciacion-42": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-43": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "iniciacion-44": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-45": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "iniciacion-46": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "iniciacion-47": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "iniciacion-48": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "iniciacion-49": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "iniciacion-50": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "iniciacion-51": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "iniciacion-52": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-1": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "intermedio-2": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "intermedio-3": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "intermedio-4": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-5": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "intermedio-6": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "intermedio-7": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "intermedio-8": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-9": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "intermedio-10": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-11": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "intermedio-12": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-13": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "intermedio-14": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "intermedio-15": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "intermedio-16": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-17": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "intermedio-18": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "intermedio-19": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "intermedio-20": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-21": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "intermedio-22": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "intermedio-23": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "intermedio-24": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-25": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "intermedio-26": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-27": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "intermedio-28": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-29": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "intermedio-30": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "intermedio-31": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "intermedio-32": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-33": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "intermedio-34": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "intermedio-35": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "intermedio-36": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-37": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "intermedio-38": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "intermedio-39": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "intermedio-40": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-41": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "intermedio-42": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-43": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "intermedio-44": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-45": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "intermedio-46": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "intermedio-47": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "intermedio-48": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "intermedio-49": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "intermedio-50": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "intermedio-51": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "intermedio-52": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-1": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "medio-alto-2": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "medio-alto-3": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "medio-alto-4": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-5": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "medio-alto-6": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "medio-alto-7": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "medio-alto-8": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-9": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "medio-alto-10": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-11": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "medio-alto-12": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-13": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "medio-alto-14": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "medio-alto-15": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "medio-alto-16": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-17": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "medio-alto-18": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "medio-alto-19": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "medio-alto-20": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-21": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "medio-alto-22": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "medio-alto-23": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "medio-alto-24": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-25": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "medio-alto-26": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-27": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "medio-alto-28": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-29": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "medio-alto-30": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "medio-alto-31": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "medio-alto-32": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-33": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "medio-alto-34": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "medio-alto-35": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "medio-alto-36": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-37": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "medio-alto-38": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "medio-alto-39": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "medio-alto-40": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-41": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "medio-alto-42": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-43": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "medio-alto-44": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-45": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "medio-alto-46": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "medio-alto-47": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "medio-alto-48": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "medio-alto-49": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "medio-alto-50": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "medio-alto-51": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "medio-alto-52": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-1": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "competicion-2": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "competicion-3": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "competicion-4": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-5": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "competicion-6": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "competicion-7": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "competicion-8": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-9": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "competicion-10": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-11": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "competicion-12": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-13": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "competicion-14": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "competicion-15": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "competicion-16": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-17": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "competicion-18": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "competicion-19": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "competicion-20": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-21": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "competicion-22": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "competicion-23": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "competicion-24": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-25": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "competicion-26": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-27": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "competicion-28": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-29": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "competicion-30": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "competicion-31": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "competicion-32": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-33": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "competicion-34": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "competicion-35": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "competicion-36": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-37": {
+    "golpe": "Bandeja básica",
+    "tecnico": "Trabajo técnico enfocado en bandeja básica con corrección individual.",
+    "tactico": "Aplicación táctica del bandeja básica en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bandeja básica. En esta semana trabajaremos el golpe denominado 'Bandeja básica', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bandeja básica. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "competicion-38": {
+    "golpe": "Salida de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en salida de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del salida de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en salida de pared (d y r). En esta semana trabajaremos el golpe denominado 'Salida de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del salida de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Giro + paso atrás",
+      "- Simulación de salida de pared",
+      "- Recuperación con split-step"
+    ]
+  },
+  "competicion-39": {
+    "golpe": "Remate por 3",
+    "tecnico": "Trabajo técnico enfocado en remate por 3 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 3. En esta semana trabajaremos el golpe denominado 'Remate por 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "competicion-40": {
+    "golpe": "Zona 2 y 3",
+    "tecnico": "Trabajo técnico enfocado en zona 2 y 3 con corrección individual.",
+    "tactico": "Aplicación táctica del zona 2 y 3 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en zona 2 y 3. En esta semana trabajaremos el golpe denominado 'Zona 2 y 3', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del zona 2 y 3. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-41": {
+    "golpe": "Víbora",
+    "tecnico": "Trabajo técnico enfocado en víbora con corrección individual.",
+    "tactico": "Aplicación táctica del víbora en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en víbora. En esta semana trabajaremos el golpe denominado 'Víbora', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del víbora. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento en V hacia atrás",
+      "- Paso cruzado + simulación de golpeo alto",
+      "- Vuelta rápida a posición"
+    ]
+  },
+  "competicion-42": {
+    "golpe": "Globo defensivo",
+    "tecnico": "Trabajo técnico enfocado en globo defensivo con corrección individual.",
+    "tactico": "Aplicación táctica del globo defensivo en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en globo defensivo. En esta semana trabajaremos el golpe denominado 'Globo defensivo', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del globo defensivo. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-43": {
+    "golpe": "Remate por 4",
+    "tecnico": "Trabajo técnico enfocado en remate por 4 con corrección individual.",
+    "tactico": "Aplicación táctica del remate por 4 en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate por 4. En esta semana trabajaremos el golpe denominado 'Remate por 4', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate por 4. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "competicion-44": {
+    "golpe": "Coberturas en pareja",
+    "tecnico": "Trabajo técnico enfocado en coberturas en pareja con corrección individual.",
+    "tactico": "Aplicación táctica del coberturas en pareja en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en coberturas en pareja. En esta semana trabajaremos el golpe denominado 'Coberturas en pareja', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del coberturas en pareja. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-45": {
+    "golpe": "Volea en movimiento",
+    "tecnico": "Trabajo técnico enfocado en volea en movimiento con corrección individual.",
+    "tactico": "Aplicación táctica del volea en movimiento en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en volea en movimiento. En esta semana trabajaremos el golpe denominado 'Volea en movimiento', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del volea en movimiento. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "competicion-46": {
+    "golpe": "Bajada de pared (D y R)",
+    "tecnico": "Trabajo técnico enfocado en bajada de pared (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del bajada de pared (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada de pared (d y r). En esta semana trabajaremos el golpe denominado 'Bajada de pared (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada de pared (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "competicion-47": {
+    "golpe": "Bajada agresiva",
+    "tecnico": "Trabajo técnico enfocado en bajada agresiva con corrección individual.",
+    "tactico": "Aplicación táctica del bajada agresiva en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en bajada agresiva. En esta semana trabajaremos el golpe denominado 'Bajada agresiva', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del bajada agresiva. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "competicion-48": {
+    "golpe": "Tiempos de ataque",
+    "tecnico": "Trabajo técnico enfocado en tiempos de ataque con corrección individual.",
+    "tactico": "Aplicación táctica del tiempos de ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en tiempos de ataque. En esta semana trabajaremos el golpe denominado 'Tiempos de ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del tiempos de ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  },
+  "competicion-49": {
+    "golpe": "Voleas (D y R)",
+    "tecnico": "Trabajo técnico enfocado en voleas (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del voleas (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en voleas (d y r). En esta semana trabajaremos el golpe denominado 'Voleas (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del voleas (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Pasos laterales entre conos",
+      "- Simulación de volea con frenada",
+      "- Sprint corto hacia red y frenado en equilibrio"
+    ]
+  },
+  "competicion-50": {
+    "golpe": "Golpes de fondo (D y R)",
+    "tecnico": "Trabajo técnico enfocado en golpes de fondo (d y r) con corrección individual.",
+    "tactico": "Aplicación táctica del golpes de fondo (d y r) en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en golpes de fondo (d y r). En esta semana trabajaremos el golpe denominado 'Golpes de fondo (D y R)', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del golpes de fondo (d y r). Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Desplazamiento lateral con ajuste",
+      "- Golpeo simulado desde fondo",
+      "- Arranque explosivo desde posición baja"
+    ]
+  },
+  "competicion-51": {
+    "golpe": "Remate plano",
+    "tecnico": "Trabajo técnico enfocado en remate plano con corrección individual.",
+    "tactico": "Aplicación táctica del remate plano en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en remate plano. En esta semana trabajaremos el golpe denominado 'Remate plano', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del remate plano. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Salto vertical controlado",
+      "- Simulación de remate con paso de carga",
+      "- Caída y reequilibrio post-remate"
+    ]
+  },
+  "competicion-52": {
+    "golpe": "Transición defensa-ataque",
+    "tecnico": "Trabajo técnico enfocado en transición defensa-ataque con corrección individual.",
+    "tactico": "Aplicación táctica del transición defensa-ataque en situaciones reales.",
+    "explicacion": "📝 Explicación del objetivo técnico:\nTrabajo técnico enfocado en transición defensa-ataque. En esta semana trabajaremos el golpe denominado 'Transición defensa-ataque', poniendo el foco en cómo ejecutar correctamente su mecánica bajo las condiciones de clase.\n\n🧠 Explicación del objetivo táctico:\nAplicación táctica del transición defensa-ataque. Queremos que los alumnos entiendan cuándo usar este golpe y qué función cumple dentro del punto o patrón de juego. Esta parte de la sesión conectará el gesto técnico con una intención táctica real.",
+    "fisico": [
+      "- Circuito de desplazamientos con conos",
+      "- Simulación del golpe en secuencia táctica",
+      "- Cambio de dirección con estímulo visual"
+    ]
+  }
+}
